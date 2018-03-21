@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="high-fidelity-audio-for-your-smartphone.html"}
-if(x=="2"){xxx="smartphone-addiction-between-anxety.html"}
-if(x=="3"){xxx="xiaomi-redmi-note-5-android-81-update.html"}
-if(x=="4"){xxx="Xiaomi-Mi-Mix-Version-Gets-Massive-Price-Cut.html"}a_to_ve[i].href="https://www.pekanansafelink.cf/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="Xiaomi-Mi-Mix-Version-Gets-Massive-Price-Cut.html"}
+if(x=="2"){xxx="xiaomi-redmi-note-5-android-81-update.html"}
+if(x=="3"){xxx="smartphone-addiction-between-anxety.html"}
+if(x=="4"){xxx="high-fidelity-audio-for-your-smartphone.html"}a_to_ve[i].href="https://www.pekanansafelink.cf/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
